@@ -14,6 +14,22 @@ p{
   font-family: 'Ysabeau', sans-serif;
   font-size: 22px;
 }
+.zoho img{
+  padding: 0px 0px 0px 10px; 
+  text-align: center; 
+  width: 120px;
+}
+.zoho a{
+  text-transform: uppercase;
+  font-size: 10px;
+  letter-spacing: 6px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center; 
+  display: inline-block; 
+  width: 190px; 
+  font-weight: bold;
+  padding-bottom: 10px;
+}
 span{
   font-size: 22px;
 }
